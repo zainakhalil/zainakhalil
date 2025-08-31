@@ -1,10 +1,8 @@
 # Hi, I’m Zaina Khalil 🌍
 
-I’m a **Data Science student at UIC** (CS concentration) passionate about using data, language, and technology to create meaningful impact. My work spans **fine-tuning transformer models for financial risk analysis**, **cleaning and modeling large-scale datasets**, and exploring **satellite intelligence with foundation models**.  
+I’m a Data Science student at UIC with a curiosity for patterns in language, behavior, and data. I love exploring how technology can make systems clearer and help communities thrive. My work ranges from cleaning and modeling complex datasets to applying machine learning and NLP to solve practical problems.
 
-Alongside studies, I serve as a **Senior Peer Mentor** and **President of Islamic Relief @ UIC**, blending technical skills with leadership and community engagement. For me, data isn’t just numbers—it’s about asking *who benefits* and *what changes* when insights turn into action.  
-
-Outside of code, I enjoy experimenting in the kitchen 🍴, traveling ✈️, and exploring the intersections of culture, faith, and language 🕌.
+When I’m not coding, I’m usually experimenting in the kitchen 🍴, traveling ✈️, or thinking about the connections between culture, language, and faith 🕌. I care about who benefits from data and what changes it can make, whether that’s through research, mentorship, or community initiatives.
 
 ---
 
