@@ -74,7 +74,7 @@ When I’m not coding, I’m usually experimenting in the kitchen 🍴, travelin
 
 ## ✍️ Blog
 
-🚧 Website coming soon  
+🚧 Website Coming Soon  
 
 ---
 
