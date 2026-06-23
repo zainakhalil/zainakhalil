@@ -15,10 +15,15 @@ Outside of work, I’m usually sharing recipes and food finds through Z Eats, sp
 ## 💻 Technical Skills
 
 **Programming & Data:** Python, R, C/C++, SAS, SQL, Pandas, NumPy, Jupyter
+
 **Machine Learning & AI:** Transformers, NLP, preprocessing, embeddings, sentiment analysis, Hugging Face, PyTorch, Scikit-learn
+
 **Big Data & Cloud:** Google Cloud Platform, BigQuery, Vertex AI, Google Colab
+
 **Visualization & Tools:** Tableau, Power BI, Matplotlib, Seaborn, Git/GitHub
+
 **Design & Mapping:** Figma, MapKit, OpenStreetMap
+
 **Languages:** Arabic, English, Spanish
 
 ---
