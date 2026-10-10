@@ -1,14 +1,12 @@
 # Hi, I’m Zaina Khalil 🌍
 
-When I was younger, I would sit with my grandparents in Cairo, listening to stories that moved between Arabic and English. Looking back, I realize that my early curiosity about communication, culture, language, and behavior shaped the way I think about the world and the kind of work I want to do.
+As a kid in Cairo, I'd sit with my grandparents while their stories slipped between Arabic and English mid-sentence. I didn't have a name for it then, but I was already wondering how people move between languages, and what that says about how we think.
 
-I recently graduated from the University of Illinois Chicago with a B.S. in Data Science and a concentration in Computer Science. To me, data is another kind of language. When read thoughtfully, it can turn complexity into clarity, uncover patterns, and help people make better decisions.
+That question stuck with me. I studied Data Science and Computer Science at the University of Illinois Chicago, and I'm now pursuing a Master of Computer Science at the University of Illinois Urbana-Champaign. Along the way I kept finding myself drawn to the same thing: the point where language, people, and data overlap.
 
-I currently work as a Software Engineer at Wenixo, where I contribute to AI-driven healthcare technology and continue growing at the intersection of software engineering, data, and real-world problem solving.
+My research interests sit where people and technology meet: cognitive science, linguistics, human-computer interaction, and how technology can help people learn. Whether I'm doing research or building tools, I want the work to be useful, thoughtful, and human-centered. I'm currently exploring opportunities in data science, analytics, and applied AI/ML.
 
-My background spans research, analytics, mentorship, and leadership, but what connects it all is the same goal: building work that is useful, thoughtful, and human-centered. As I begin this next chapter, I’m especially interested in opportunities across software engineering, data science, analytics, technical consulting, and client-facing technology roles.
-
-Outside of work, I’m usually sharing recipes and food finds through Z Eats, spending time at the gym, exploring faith, and planning my next adventure abroad.
+Outside of work, I have more hobbies than free time. Lately that means getting into biking, rearranging my room more often than I'd like to admit, and planning my next trip abroad. Ten years of competitive swimming taught me that most hard things get done one lap at a time, and I'm still testing whether that works on wheels.
 
 ---
 
@@ -103,5 +101,3 @@ Outside of work, I’m usually sharing recipes and food finds through Z Eats, sp
 * Email: [zainakhalil002@gmail.com](mailto:zainakhalil002@gmail.com)
 
 ---
-
-Thanks for stopping by! I’m always excited to connect, collaborate, and build things that make technology more useful, thoughtful, and human-centered.
