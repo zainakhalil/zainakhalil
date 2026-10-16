@@ -1,103 +1,137 @@
-# Hi, I’m Zaina Khalil 🌍
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8553D,100:F2A65A&height=190&section=header&text=Zaina%20Khalil&fontColor=FFFFFF&fontSize=50&fontAlignY=36&desc=language%20%C2%B7%20people%20%C2%B7%20data&descAlignY=58&descSize=18&animation=fadeIn" alt="Zaina Khalil" />
+</p>
+
+<h3 align="center">Hi &nbsp;·&nbsp; أهلاً &nbsp;·&nbsp; Hola</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1400&color=C8553D&center=true&vCenter=true&width=560&lines=How+do+multilingual+learners+learn+from+AI%3F;Data+science+%2B+NLP+%2B+learning+sciences;MCS+%40+UIUC+%7C+open+to+data+science+roles" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zainakhalil"><img src="https://img.shields.io/badge/LinkedIn-C8553D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:zainakhalil002@gmail.com"><img src="https://img.shields.io/badge/Email-E07A4F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/z__eatz"><img src="https://img.shields.io/badge/@Z__Eatz-F2A65A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+---
 
 As a kid in Cairo, I'd sit with my grandparents while their stories slipped between Arabic and English mid-sentence. I didn't have a name for it then, but I was already wondering how people move between languages, and what that says about how we think.
 
-That question stuck with me. I studied Data Science and Computer Science at the University of Illinois Chicago, and I'm now pursuing a Master of Computer Science at the University of Illinois Urbana-Champaign. Along the way I kept finding myself drawn to the same thing: the point where language, people, and data overlap.
+I'm still wondering. Freshman year at UIC I started an independent study on how bilingual people process language, and later I TA'd Arabic courses, where I got to watch students switch between languages in real time. Now I'm working on my Master of Computer Science at UIUC, and the question has picked up a new piece: **what happens when multilingual learners start learning from AI?**
 
-My research interests sit where people and technology meet: cognitive science, linguistics, human-computer interaction, and how technology can help people learn. Whether I'm doing research or building tools, I want the work to be useful, thoughtful, and human-centered. I'm currently exploring opportunities in data science, analytics, and applied AI/ML.
-
-Outside of work, I have more hobbies than free time. Lately that means getting into biking, rearranging my room more often than I'd like to admit, and planning my next trip abroad. Ten years of competitive swimming taught me that most hard things get done one lap at a time, and I'm still testing whether that works on wheels.
-
----
-
-## 💻 Technical Skills
-
-**Programming & Data:** Python, R, C/C++, SAS, SQL, Pandas, NumPy, Jupyter
-
-**Machine Learning & AI:** Transformers, NLP, preprocessing, embeddings, sentiment analysis, Hugging Face, PyTorch, Scikit-learn
-
-**Big Data & Cloud:** Google Cloud Platform, BigQuery, Vertex AI, Google Colab
-
-**Visualization & Tools:** Tableau, Power BI, Matplotlib, Seaborn, Git/GitHub
-
-**Design & Mapping:** Figma, MapKit, OpenStreetMap
-
-**Languages:** Arabic, English, Spanish
+<p align="center">
+  <code>🗣️ language</code> &nbsp;✕&nbsp; <code>🧠 cognition</code> &nbsp;✕&nbsp; <code>🖥️ human-computer interaction</code> &nbsp;✕&nbsp; <code>📊 data</code>
+</p>
 
 ---
 
-## 🚀 Featured Experience & Projects
+## 🔍 Right now
 
-### **Wenixo — Software Engineer**
+> 📚 **Researching** how Arabic-English and Spanish-English speakers learn intro programming from AI tools, how that changes over time, and how to design those tools so people end up relying on AI *less*, not more
+>
+> 🎓 **Studying** for my MCS at UIUC
+>
+> 💼 **Looking for** data science, analytics, and applied AI/ML roles
 
-* Contributing to AI-driven healthcare technology focused on real-world clinical workflows.
-* Working across software engineering, backend development, and applied AI problem solving.
-
-### **Google — Software Engineering Sprintern**
-
-* Built an AI chatbot on Google Cloud to analyze 10,000+ customer sentiment entries and surface consultant-ready insights.
-* Integrated Gemini NLP models and sentiment visualizations into a web platform during a 3-week engineering sprint.
-
-### **AbbVie — Business Technology Solutions Intern**
-
-* Developed an AI workflow by translating stakeholder needs into system requirements for practical adoption.
-* Presented AI recommendations using stakeholder interviews, site visit insights, and team-based system design.
-
-### **UChicago Data Science Institute — NLP Research Intern**
-
-* Fine-tuned transformer models to automate summarization of SEC Form 8-K filings, reducing review time by 60%.
-* Extracted financial risk indicators with 90% information capture and 80.5% overlap for BankTrack.
-
-### **Foundation Models for Satellite Image Intelligence — Ursa Space Systems**
-
-* Built SAR image classifiers using pretrained models to classify vessels and icebergs with 80%+ accuracy.
-* Analyzed CNN feature embeddings with PCA to improve feature representation and reduce reliance on labeled data.
-
-### **Dormakaba Datatidy — Purdue Data Mine**
-
-* Standardized 50,000+ international hotel access records using a scalable naming convention for ML applications.
-* Reduced null values by 40%, improving data quality for predictive modeling and anomaly detection.
-
-### **Everyday 2.0 — UIC SparkHacks Hackathon**
-
-* Built a first-place iOS app in Swift using MapKit and OpenStreetMap to help students locate campus water refill stations.
-* Designed core features in a 24-hour hackathon using Figma and implemented real-time mapping functionality.
+I try to use AI as a thinking partner rather than a replacement for thinking, and I'm curious how to build tools that help other people do the same.
 
 ---
 
-## 🌱 Leadership & Community
+## 🛠️ Selected work
 
-* President and former Marketing Chair of **Impactful Relief — UIC Chapter**
-* Senior Peer Mentor with **UIC Campus Housing**
-* Break Through Tech AI/ML Fellow
-* SparkHacks 2026 E-Board Member
-* NASA Space Apps Hackathon First Place Winner
-* Society of Women in Engineering Member
-
----
-
-## 🏆 Awards & Certifications
-
-* Summa Cum Laude
-* Chancellor’s Fellows Award
-* President’s Awards Program Scholar
-* College of Engineering Merit Scholarship
-* Dean’s List
-* Cornell University Certificate in Machine Learning Foundations
-* Arabic Seal of Biliteracy
-* Spanish Seal of Biliteracy
+| | Project | What I did |
+|:-:|---|---|
+| 🗣️ | **BankTrack**<br><sub>UChicago Data Science Institute · 2024</sub> | Fine-tuned transformers to summarize SEC 8-K filings and extract financial risk indicators, cutting review time by about 60%. Came back two years later to speak on a panel for the next cohort. |
+| 💬 | **AI Sentiment Chatbot**<br><sub>Google Sprinternship · 2025</sub> | Built a Gemini-powered chatbot on Google Cloud to sort through 10,000+ customer sentiment entries and surface what consultants needed, in a 3-week sprint. |
+| 🩺 | **Ambient AI Medical Scribe**<br><sub>Wenixo · 2026</sub> | Worked on the backend for clinical documentation: transcription, AI-generated notes, billing code suggestions, and live doctor-patient translation. <br><sub>FastAPI · PostgreSQL · AWS Transcribe Medical · Bedrock</sub> |
+| 🤖 | **Multi-Agent Competitive Intelligence**<br><sub>AbbVie x UIC Innovation Center · 2026</sub> | Helped build a seven-agent pipeline for pharma competitive intelligence. Owned the agent that validated sources and scored their credibility. |
+| 🛰️ | **SAR Image Classification**<br><sub>Ursa Space Systems · 2025</sub> | Classified vessels vs. icebergs in satellite radar images with a custom Keras ConvNet (80%+ accuracy), then used PCA on embeddings to see what the model was picking up on. |
+| 🧹 | **Datatidy**<br><sub>Purdue Data Mine x Dormakaba · 2024 to 2025</sub> | Standardized 50,000+ international hotel access records and cut nulls by 40% so the data could support anomaly detection. |
+| 💧 | **Everyday 2.0** 🥇<br><sub>SparkHacks · 2025</sub> | 24-hour iOS app for finding campus water refill stations (Swift, MapKit, OpenStreetMap). Liked it enough to join the organizing board the next year. |
+| 🚀 | **NASA Space Apps Challenge** 🥇 | First place with my team over one weekend. |
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Toolbox
 
-![Zaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainakhalil\&show_icons=true\&theme=radical)
+<p>
+  <img src="https://img.shields.io/badge/Python-C8553D?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-C8553D?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-C8553D?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-C8553D?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-C8553D?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAS-C8553D?style=flat-square" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-E07A4F?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-E07A4F?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-E07A4F?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-E07A4F?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-E07A4F?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-E07A4F?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-E07A4F?style=flat-square&logo=jupyter&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-F2A65A?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-F2A65A?style=flat-square&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-F2A65A?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-F2A65A?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-F2A65A?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2A65A?style=flat-square&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F2A65A?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F2A65A?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+**Spoken:** English · العربية · Español
 
 ---
 
-## 📫 Contact
+## 🌱 Community
 
-* [LinkedIn](https://www.linkedin.com/in/zainakhalil)
-* Email: [zainakhalil002@gmail.com](mailto:zainakhalil002@gmail.com)
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Leading**
+- President (and former Marketing Chair), **Impactful Relief UIC**
+- Senior Peer Mentor, **UIC Campus Housing** (300+ residents)
+- **SparkHacks**: competed in 2025, helped organize 2026
+
+</td>
+<td valign="top" width="50%">
+
+**Learning and teaching**
+- Undergraduate TA, **Arabic** at UIC
+- **Break Through Tech** AI/ML Fellow
+- Member, **Society of Women Engineers**
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🏅 Recognition</b></summary>
+<br>
+
+Summa Cum Laude · Chancellor's Fellows Award · President's Awards Program Scholar · College of Engineering Merit Scholarship · Cornell Certificate in Machine Learning Foundations · Seals of Biliteracy in Arabic and Spanish
+
+</details>
 
 ---
+
+## 🚲 Off the clock
+
+I have more hobbies than free time. Ten years of competitive swimming taught me that most hard things get done one lap at a time, and lately I'm testing whether that works on a bike. I've been lifting since undergrad, which turned into a side habit of reading about how exercise affects the brain (the cognitive science never really turns off). I also post what I cook and where I eat on [@Z__Eatz](https://www.instagram.com/z__eatz), and I rearrange my room more often than I'd like to admit.
+
+---
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zainakhalil&show_icons=true&hide_border=true&bg_color=FFF8F3&title_color=C8553D&icon_color=E07A4F&text_color=5A3E36" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainakhalil&layout=compact&hide_border=true&bg_color=FFF8F3&title_color=C8553D&text_color=5A3E36" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2A65A,100:C8553D&height=100&section=footer" />
+</p>
