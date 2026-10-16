@@ -38,7 +38,7 @@ I'm still wondering. Freshman year at UIC I started an independent study on how 
 >
 > 💼 **Looking for** data science, analytics, and applied AI/ML roles
 
-I try to use AI as a thinking partner rather than a replacement for thinking, and I'm curious how to build tools that help other people do the same.
+Most AI tools are built to be as helpful as possible in the moment. I’m more interested in what people can still do once the tool is gone, and how to design AI that knows when to step back.
 
 <h2>
   <picture>
