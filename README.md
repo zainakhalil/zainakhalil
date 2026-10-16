@@ -184,10 +184,5 @@ And I'm almost always planning the next trip. 🧳
 <br>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zainakhalil&show_icons=true&hide_border=true&bg_color=EFF6FF&title_color=1E40AF&icon_color=0284C7&text_color=0B1F3A" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainakhalil&layout=compact&hide_border=true&bg_color=EFF6FF&title_color=1E40AF&text_color=0B1F3A" />
-</p>
-
-<p align="center">
   <img src="footer.svg" width="100%" alt="" />
 </p>
