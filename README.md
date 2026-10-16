@@ -1,10 +1,6 @@
-<!-- Header -->
+<!-- Header: upload header.svg and footer.svg to this repo next to the README -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:1E40AF,100:38BDF8&height=150&section=header" alt="" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=54&duration=1800&pause=100000&color=3B82F6&center=true&vCenter=true&repeat=false&width=520&height=80&lines=Zaina+Khalil" alt="Zaina Khalil" />
+  <img src="header.svg" width="100%" alt="Zaina Khalil, spelled out in building bricks" />
 </p>
 
 <h3 align="center">Hi &nbsp;·&nbsp; أهلاً &nbsp;·&nbsp; Hola</h3>
@@ -193,5 +189,5 @@ And I'm almost always planning the next trip. 🧳
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E40AF,100:0B1F3A&height=100&section=footer" alt="" />
+  <img src="footer.svg" width="100%" alt="" />
 </p>
