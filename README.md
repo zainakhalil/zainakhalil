@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=54&duration=1800&pause=100000&color=3B82F6&center=true&vCenter=true&repeat=false&width=520&height=80&lines=Zaina+Khalil" alt="Zaina Khalil" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=54&duration=1800&pause=100000&color=3B82F6&center=true&vCenter=true&repeat=false&width=520&height=80&lines=Zaina+Khalil" alt="Zaina Khalil" />
 </p>
 
 <h3 align="center">Hi &nbsp;·&nbsp; أهلاً &nbsp;·&nbsp; Hola</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=19&pause=1600&color=0EA5E9&center=true&vCenter=true&width=600&lines=How+do+multilingual+learners+learn+from+AI%3F;Data+science+%C2%B7+NLP+%C2%B7+learning+sciences;MCS+%40+UIUC+%E2%80%A2+open+to+data+science+roles" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1600&color=0EA5E9&center=true&vCenter=true&width=600&lines=How+do+multilingual+learners+learn+from+AI%3F;Data+science+%C2%B7+NLP+%C2%B7+learning+sciences;MCS+%40+UIUC+%E2%80%A2+open+to+data+science+roles" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -29,7 +29,12 @@ I'm still wondering. Freshman year at UIC I started an independent study on how 
   <code>🗣️ language</code> &nbsp;✕&nbsp; <code>🧠 cognition</code> &nbsp;✕&nbsp; <code>🖥️ human-computer interaction</code> &nbsp;✕&nbsp; <code>📊 data</code>
 </p>
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=3B82F6&vCenter=true&repeat=false&width=600&height=42&lines=Right+Now" alt="Right Now" /></h2>
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=1&pause=100000&color=FFFFFF&vCenter=true&repeat=false&width=600&height=42&lines=Right+Now" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=1&pause=100000&color=000000&vCenter=true&repeat=false&width=600&height=42&lines=Right+Now" alt="Right Now" />
+  </picture>
+</h2>
 
 > 📚 **Researching** how Arabic-English and Spanish-English speakers learn intro programming from AI tools, how that changes over time, and how to design those tools so people end up relying on AI *less*, not more
 >
@@ -39,7 +44,12 @@ I'm still wondering. Freshman year at UIC I started an independent study on how 
 
 I try to use AI as a thinking partner rather than a replacement for thinking, and I'm curious how to build tools that help other people do the same.
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=3B82F6&vCenter=true&repeat=false&width=600&height=42&lines=Selected+Work" alt="Selected Work" /></h2>
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=1&pause=100000&color=FFFFFF&vCenter=true&repeat=false&width=600&height=42&lines=Selected+Work" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=1&pause=100000&color=000000&vCenter=true&repeat=false&width=600&height=42&lines=Selected+Work" alt="Selected Work" />
+  </picture>
+</h2>
 
 | | Project | What I Did |
 |:-:|---|---|
@@ -52,7 +62,12 @@ I try to use AI as a thinking partner rather than a replacement for thinking, an
 | 🧹 | **Datatidy**<br><sub>Purdue Data Mine x Dormakaba · 2024 to 2025</sub> | Standardized 50,000+ international hotel access records and cut nulls by 40% so the data could support anomaly detection. |
 | 💧 | **Everyday 2.0** 🥇<br><sub>SparkHacks · 2025</sub> | 24-hour iOS app for finding campus water refill stations (Swift, MapKit, OpenStreetMap). Liked it enough to join the organizing board the next year. |
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=3B82F6&vCenter=true&repeat=false&width=600&height=42&lines=Toolbox" alt="Toolbox" /></h2>
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=1&pause=100000&color=FFFFFF&vCenter=true&repeat=false&width=600&height=42&lines=Toolbox" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=1&pause=100000&color=000000&vCenter=true&repeat=false&width=600&height=42&lines=Toolbox" alt="Toolbox" />
+  </picture>
+</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Python-0B1F3A?style=flat-square&logo=python&logoColor=white" />
@@ -84,7 +99,12 @@ I try to use AI as a thinking partner rather than a replacement for thinking, an
 
 **Spoken:** English · العربية · Español
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=3B82F6&vCenter=true&repeat=false&width=600&height=42&lines=Community" alt="Community" /></h2>
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=1&pause=100000&color=FFFFFF&vCenter=true&repeat=false&width=600&height=42&lines=Community" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=1&pause=100000&color=000000&vCenter=true&repeat=false&width=600&height=42&lines=Community" alt="Community" />
+  </picture>
+</h2>
 
 <table>
 <tr>
@@ -115,13 +135,23 @@ Summa Cum Laude · Chancellor's Fellows Award · President's Awards Program Scho
 
 </details>
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=3B82F6&vCenter=true&repeat=false&width=600&height=42&lines=Off+The+Clock" alt="Off The Clock" /></h2>
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=1&pause=100000&color=FFFFFF&vCenter=true&repeat=false&width=600&height=42&lines=Off+The+Clock" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=1&pause=100000&color=000000&vCenter=true&repeat=false&width=600&height=42&lines=Off+The+Clock" alt="Off The Clock" />
+  </picture>
+</h2>
 
 I have more hobbies than free time. Ten years of competitive swimming taught me that most hard things get done one lap at a time, and lately I'm testing whether that works on a bike. I've been lifting since undergrad, which turned into a side habit of reading about how exercise affects the brain (the cognitive science never really turns off). I also post what I cook and where I eat on [@Z__Eatz](https://www.instagram.com/z__eatz), and I rearrange my room more often than I'd like to admit.
 
 And I'm almost always planning the next trip. 🧳
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=3B82F6&vCenter=true&repeat=false&width=600&height=42&lines=Where+I%27ve+Been" alt="Where I've Been" /></h2>
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=1&pause=100000&color=FFFFFF&vCenter=true&repeat=false&width=600&height=42&lines=Where+I%27ve+Been" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=1&pause=100000&color=000000&vCenter=true&repeat=false&width=600&height=42&lines=Where+I%27ve+Been" alt="Where I've Been" />
+  </picture>
+</h2>
 
 <sub>🔵 home bases &nbsp;·&nbsp; 🩵 places I've explored</sub>
 
